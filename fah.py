@@ -1,3 +1,6 @@
+# copied from https://realpython.com/python-web-applications/
+# don't be like Joe (LGB)
+
 from flask import Flask
 
 app = Flask(__name__)
